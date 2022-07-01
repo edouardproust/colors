@@ -1,6 +1,7 @@
 # color palette generator
 
-An application to generate palettes of colors and save them in your library. Useful for designers, web-developpers and anyone working in visual arts.
+- An application to generate palettes of colors and save them in your library. 
+- Useful for designers, web-developpers and anyone working in visual arts.
 
 👉 [**Live demo**](http://phpstack-749317-2526858.cloudwaysapps.com/)
 
