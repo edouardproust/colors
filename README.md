@@ -3,7 +3,7 @@
 - An application to generate palettes of colors and save them in your library. 
 - Useful for designers, web-developpers and anyone working in visual arts.
 
-👉 [**Live demo**](http://phpstack-749317-2526858.cloudwaysapps.com/)
+👉 [**Live demo**](http://phpstack-856558-2958271.cloudwaysapps.com/)
 
 ![image](https://user-images.githubusercontent.com/45925914/176820946-42b731b3-aea0-4115-b85b-a9dd70562ad9.png)
 
